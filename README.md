@@ -155,8 +155,6 @@ plt.show()
 <img width="514" height="410" alt="download" src="https://github.com/user-attachments/assets/83312e00-90ee-48a5-9f90-9f2fe7082da4" />
 
 
-
-
 ### Smoothing Filters
 
 - Averaging filter produces blurred image  
