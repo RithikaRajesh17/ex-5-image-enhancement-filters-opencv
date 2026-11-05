@@ -61,14 +61,12 @@ Convert image to grayscale and apply Laplacian Operator using `cv2.Laplacian()`.
 ### Step 10:
 Display all filtered images using a grid layout for comparison.
 
----
 
 ##  Developed By
 
 - **Name: **Rithika R
 - **Register No: **212224240136
 
----
 
 ##  program
 
@@ -142,7 +140,6 @@ plt.show()
 ```
 <img width="514" height="410" alt="download" src="https://github.com/user-attachments/assets/4e080b4b-cf32-4419-b190-495a199980f7" />
 
-
 ii) Using Laplacian Operator
 
 ```
@@ -171,6 +168,4 @@ plt.show()
 
 ##  Result
 
-Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
-
-The smoothing filters reduce noise and improve image quality, while sharpening filters enhance edges and details for better feature extraction.
+Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.The smoothing filters reduce noise and improve image quality, while sharpening filters enhance edges and details for better feature extraction.
